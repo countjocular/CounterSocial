@@ -1,1 +1,2 @@
 # CounterSocial
+Counter.Social is the first Social Network Platform to take a zero-tolerance approach to hostile nations and bot accounts weaponizing OUR social media platforms and freedoms to engage in influence operations against us. While CounterSocial is part of the wider Mastodon network, we are a modified, hardened node, unafraid to engage in cyber countermeasures. We also actively block nodes and access to our community from IP space originating in Russia, China, North Korea, Iran, Pakistan and Syria, along with over 100,000 VPN and proxy services. 
